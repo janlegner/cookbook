@@ -77,4 +77,5 @@ nav:
   - Recipes:
       - recipes/index.md
       - Bramboráky: recipes/bramboraky.md
+      - Vanilkové rohlíky: recipes/vanilkove-rohliky.md
   - About: about.md
