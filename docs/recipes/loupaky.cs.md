@@ -20,12 +20,12 @@
 - 2 lžičky vanilkového cukru
 - 1 žloutek
 - špetka soli
+- *(volitelně)* 70 g namletých pistácií
 
 ### Na povrch
 
 - 1 bílek
 - 2 lžíce máku **nebo** plátků mandlí
-- *(volitelně)* 70 g namletých pistácií
 
 ## Obrázek
 
@@ -39,7 +39,7 @@
 4. **Kynutí** *(≈ 1 h)*. Přikryj utěrkou nebo fólií a nech kynout na teplém místě, dokud těsto nezdvojnásobí objem.
 5. **Tvarování bochánků** *(5 min + 10 min odpočinek)*. Vyklop na pomoučenou plochu a rozděl na 6 stejných dílů. Z každého vytvaruj kuličku a nech 10 minut odpočinout pod utěrkou.
 6. **Válení loupáků** *(5 min)*. Každou kuličku rozválej do kapkovitého tvaru a srolu od širšího konce ke špičce. Pokládej na plech vyložený pečicím papírem.
-7. **Potření a posypání** *(2 min)*. Bílek rozšlehej vidličkou, loupáky potři mašlovačkou a posyp mákem nebo plátky mandlí. Pokud používáš pistácie, posyp i jimi.
+7. **Potření a posypání** *(2 min)*. Bílek rozšlehej vidličkou, loupáky potři mašlovačkou a posyp mákem nebo plátky mandlí.
 8. **Druhé kynutí** *(15 min)*. Nech ještě 15 minut kynout. Mezitím předehřej troubu na 180 °C.
 9. **Pečení** *(20 min)*. Peč při 180 °C asi 20 minut do zlatova.
 10. **Vychladnutí** *(20 min)*. Přenes na mřížku a nech vychladnout.
