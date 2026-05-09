@@ -1,12 +1,14 @@
 # 12-hour duck
 
-> _TODO: short description._
+> Slow-roasted whole duck or pieces — just salt and caraway, no basting. Crisp skin, fall-off-the-bone meat.
 
-**Servings:** TODO · **Prep:** TODO · **Cook:** 12 h
+**Servings:** 4 · **Prep:** 5 min · **Cook:** ≈ 12 h
 
 ## Ingredients
 
-- TODO
+- 1 whole duck (≈ 2 kg) **or** duck pieces
+- salt
+- caraway seeds
 
 ## Picture
 
@@ -14,4 +16,7 @@
 
 ## Step by step
 
-1. TODO
+1. **Prep** *(5 min)*. Pat the duck dry, rub with salt and caraway inside and out. Place breast-up in a roasting tray and cover with foil.
+2. **Slow roast** *(6 h @ 80 °C)*. Bake covered. No basting.
+3. **Mid roast** *(5 h @ 120 °C)*. Raise to 120 °C, keep covered.
+4. **Finish** *(30–45 min @ 180 °C)*. Remove foil, raise to 180 °C. Roast until the skin is crisp.
