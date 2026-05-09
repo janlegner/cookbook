@@ -77,6 +77,20 @@ nav:
   - Recipes:
       - recipes/index.md
       - Bramboráky: recipes/bramboraky.md
+      - Brambory: recipes/brambory.md
+      - Hovězí guláš: recipes/hovezi-gulas.md
+      - Hovězí steak: recipes/hovezi-steak.md
+      - Kachna 12 hodin: recipes/kachna-12h.md
+      - Knedlíky: recipes/knedliky.md
+      - Lasagne s masem: recipes/lasagne.md
       - Loupáky: recipes/loupaky.md
+      - Mrkvová bábovka: recipes/mrkvova-babovka.md
+      - Palačinky: recipes/palacinky.md
+      - Parmazánové kuře: recipes/parmazanove-kure.md
+      - Rizoto: recipes/rizoto.md
+      - Rýže: recipes/ryze.md
+      - Salát s vínem: recipes/salat-s-vinem.md
+      - Svíčková: recipes/svickova.md
       - Vanilkové rohlíky: recipes/vanilkove-rohliky.md
+      - Vejce: recipes/vejce.md
   - About: about.md
