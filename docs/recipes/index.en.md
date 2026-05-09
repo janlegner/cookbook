@@ -12,6 +12,7 @@ A growing collection of recipes I keep coming back to.
 - [Eggs (runny, soft, hard)](vejce.md)
 - [Loupáky (sweet poppy seed buns)](loupaky.md)
 - [Palačinky (Czech crepes)](palacinky.md)
+- [Pork schnitzel (oven-baked)](veprovy-rizek-v-troube.md)
 - [Potatoes](brambory.md)
 - [Rice](ryze.md)
 - [Risotto](rizoto.md)
