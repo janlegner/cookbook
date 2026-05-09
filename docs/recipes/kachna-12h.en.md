@@ -19,4 +19,5 @@
 1. **Prep** *(5 min)*. Pat the duck dry, rub with salt and caraway inside and out. Place breast-up in a roasting tray and cover with foil.
 2. **Slow roast** *(6 h @ 80 °C)*. Bake covered. No basting.
 3. **Mid roast** *(5 h @ 120 °C)*. Raise to 120 °C, keep covered.
-4. **Finish** *(30–45 min @ 180 °C)*. Remove foil, raise to 180 °C. Roast until the skin is crisp.
+4. **Finish, covered** *(30 min @ 180 °C)*. Raise to 180 °C, keep covered.
+5. **Finish, uncovered** *(30 min @ 180 °C)*. Remove foil and roast until the skin is crisp.
