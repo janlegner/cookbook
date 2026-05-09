@@ -33,16 +33,16 @@
 
 ## Step by step
 
-1. **Take out the butter** *(at least 30 min ahead)*. Take the butter out of the fridge so it softens to room temperature.
-2. **Starter** *(2 min work + 10 min wait)*. Pour the milk into a bowl, crumble in the yeast, add the spoon of sugar, stir and cover with a tea towel. Let it foam up for about 10 minutes.
-3. **Dough** *(10 min)*. In a large bowl (or stand mixer with a hook) combine the flour, sugar, vanilla sugar and salt. Add the butter and the yolk, pour in the starter and knead into a smooth, elastic dough (~8–10 minutes in a mixer, longer by hand).
-4. **First rise** *(≈ 1 h)*. Cover and let rise in a warm place until doubled in size.
-5. **Portioning** *(5 min + 10 min rest)*. Tip onto a floured surface and divide into 6 equal pieces. Shape each into a ball and let rest under a tea towel for 10 minutes.
-6. **Rolling** *(5 min)*. Roll each ball into a teardrop shape and roll up from the wide end to the tip. Place on a tray lined with baking paper.
-7. **Wash and topping** *(2 min)*. Beat the egg white with a fork, brush the buns and sprinkle with poppy seeds or flaked almonds.
-8. **Second rise** *(15 min)*. Let them rise on the tray for another 15 minutes. Meanwhile preheat the oven to 180 °C.
-9. **Bake** *(20 min)*. Bake at 180 °C for about 20 minutes, until golden.
-10. **Cool** *(20 min)*. Transfer to a wire rack and let cool.
+1. **Take out the butter** *(30 min ahead)*. Butter to room temperature.
+2. **Starter** *(+10 min)*. Mix milk, yeast and 1 tbsp sugar. Cover, let it foam up.
+3. **Dough** *(10 min)*. Combine flour, sugar, vanilla sugar and salt. Add butter, yolk and starter (and pistachios). Knead smooth and elastic (mixer 8–10 min).
+4. **First rise** *(1 h)*. Covered, warm place, until doubled.
+5. **Portioning** *(+10 min)*. Divide into 6, shape into balls, rest under a tea towel.
+6. **Rolling** *(5 min)*. Roll each ball into a teardrop, roll up from the wide end. Onto a lined tray.
+7. **Wash and topping** *(2 min)*. Brush with beaten egg white, sprinkle with poppy seeds or flaked almonds.
+8. **Second rise** *(15 min)*. Meanwhile preheat oven to 180 °C.
+9. **Bake** *(20 min)*. 180 °C, until golden.
+10. **Cool**. On a wire rack.
 
 !!! note "Storage"
     Wrap in a tea towel and keep in a bread bin — not plastic.
