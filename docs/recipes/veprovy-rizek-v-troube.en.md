@@ -2,7 +2,7 @@
 
 > Classic Czech schnitzel without frying — baked in the oven and still crisp.
 
-**Servings:** 4 · **Prep:** 15 min · **Bake:** 20 min
+**Servings:** 4 · **Prep:** 15 min · **Bake:** 30 min
 
 ## Ingredients
 
@@ -20,8 +20,8 @@
 ## Step by step
 
 1. **Oven**. Preheat to 220 °C, conventional.
-2. **Meat** *(5 min)*. Pound the cutlets to ≈ 5 mm. Salt and pepper both sides.
+2. **Meat** *(5 min)*. Pound the cutlets to ≈ 10–12 mm. Salt and pepper both sides.
 3. **Breading** *(5 min)*. Three plates: flour → beaten egg → breadcrumbs. Coat each cutlet in order.
 4. **Tray** *(1 min)*. Brush a deep tray with oil or melted butter — the base must be covered.
-5. **Bake** *(20 min)*. Lay the cutlets on the tray, bake 10 min. Flip and bake another 8–10 min until golden.
+5. **Bake** *(30 min)*. Lay the cutlets on the tray, bake 15 min. Flip and bake another 12–15 min until golden.
 6. **Serve**. Immediately, with potatoes or potato salad.
